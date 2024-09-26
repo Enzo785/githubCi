@@ -1,7 +1,6 @@
 # githubCi
 
-[![Docker Image CI](https://github.com/Enzo785/githubCi/actions/workflows/build.yml/badge.svg?branch=dev&event=check_run)](https://github.com/Enzo785/githubCi/actions/workflows/build.yml)
-
+[![Publish Docker image](https://github.com/Enzo785/githubCi/actions/workflows/push-docker.yml/badge.svg)](https://github.com/Enzo785/githubCi/actions/workflows/push-docker.yml)
 
 Continus Integration/Deployment with Github
 
